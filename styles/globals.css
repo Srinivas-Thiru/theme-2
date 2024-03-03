@@ -279,6 +279,7 @@ a {
   position: fixed;
   top: 50px;
   transform: translateY(-40%);
+  z-index: 9999;
 }
 .social a {
   text-decoration: none;
