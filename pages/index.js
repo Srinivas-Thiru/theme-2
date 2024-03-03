@@ -249,7 +249,7 @@ export default function Home() {
 
               
             <div id="Projects" className="min-h-screen pt-10 text-gray-800 dark:text-gray-200">
-              <h1 className={`font-burtons section-title mb-4  text-gray-800 dark:text-gray-200 text-xl ${isVisible && "underline-animation"}`}>Thigns I've developed</h1>
+              <h1 className={`font-burtons section-title mb-4  text-gray-800 dark:text-gray-200 text-xl ${isVisible && "underline-animation"}`}>Things I've developed</h1>
               
               <div className="content overflow-hidden p-0 md:flex-row my-auto md:ml-0 w-90md:w-[60vw] ">
 
