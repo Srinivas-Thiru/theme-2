@@ -7,8 +7,6 @@
 # next.js
 /.next/
 /out/
-
-
 # misc
 .DS_Store
 *.pem
