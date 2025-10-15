@@ -132,7 +132,7 @@ export default function Home() {
           <div className="py-10 mb-12 flex justify-between dark:text-white ">
    
             <h1 className=" z-50 font-burtons text-xl pt-2 animate-fadeIn underline-animation inline-block">get a glimpse of sri</h1>
-            <a className="" href="https://srinivas-thiru.github.io/"><button className="change-btn hover:text-black"  >  <AiOutlineLayout className="inline-block mb-1" /></button></a> 
+            <a className="" href="https://old-portfolio-roan.vercel.app/"><button className="change-btn hover:text-black"  >  <AiOutlineLayout className="inline-block mb-1" /></button></a> 
           </div>
 
                   <div className="social animate-slideRight">
